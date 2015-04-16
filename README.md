@@ -1,6 +1,6 @@
 # Rozwojowiec
 
-1. Nie stworzyłem bazy w plikach, w pliku .sql jest tworzenie tabeli. Na moim wykupywanym serwerze nie ma możliwości tworzenia bazy inaczej niż przez DA.
+1. Nie stworzyłem bazy w plikach, w pliku .sql jest tworzenie tabeli. Na moim wykupywanym serwerze nie ma możliwości tworzenia bazy inaczej niż przez DA. Można więc stworzyć bazę danych i podmienić dane w pliku database.php
 
 2.Przy pliku .htaccess.txt należy usunąć ".txt" po wgraniu na serwer. Zawiera on regułę rewrite, która pozwala na dostęp do strony przez wpisanie końcówki adresu zarówno "/rozwojowiec.php" jak i "/rozwojowiec.html" czy "/rozwojowiec".
 
