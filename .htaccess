@@ -1,0 +1,5 @@
+Options +Indexes
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^([^.]+)\.html$ $1.php [L]
+RewriteRule ^(.*)rozwojowiec$ $1rozwojowiec.php [L]
