@@ -28,3 +28,4 @@
 
 14.Projekt jest rowniez dostepny pod tym adresem http://konetix.pl/pokazy/rozwojowiec
 
+15.Dodatkowo udostpniem zrzut mojej bazy danych w pliku pod nazwa virt103174_pokaz.sql
