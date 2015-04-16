@@ -26,3 +26,5 @@
 
 13.W razie znalezienie bugów, złej optymalizacji, niedociągnięć - proszę o poinformowanie, z pewnością mógłbym to poprawić.
 
+14.Projekt jest rowniez dostepny pod tym adresem http://konetix.pl/pokazy/rozwojowiec
+
